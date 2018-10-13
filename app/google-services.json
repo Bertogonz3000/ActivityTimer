@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "272673955246",
+    "firebase_url": "https://activitytimer01.firebaseio.com",
+    "project_id": "activitytimer01",
+    "storage_bucket": "activitytimer01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272673955246:android:1dd7352b9c93d9d1",
+        "android_client_info": {
+          "package_name": "com.at.bertogonz3000.activitytimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272673955246-b5dl12nb2aecgc6mepsh40fr971k26i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzTyNrMc8tABFBEwRaGnu4mYkfAWss_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
